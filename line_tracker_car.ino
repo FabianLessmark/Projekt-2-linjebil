@@ -1,9 +1,10 @@
 //Fabian Lessmark
 //2024-02-26
-/* This code controlls three color sensors that indicate on black and white.
-The code then checks the value of the sensors with the help of if-statements 
-and stears the car in the right direction. The car is driven by 4 motors. This 
-project is a linefollowing car that can follow a black line on a white surface. */
+
+//This code controlls three color sensors that indicate on black and white.
+//The code then checks the value of the sensors with the help of if-statements 
+//and stears the car in the right direction. The car is driven by 4 motors. This 
+//project is a linefollowing car that can follow a black line on a white surface. 
 
 int L_pin = 6; //pin for left line tracking sensor
 int M_pin = 7; //pin for middle line tracking sensor
